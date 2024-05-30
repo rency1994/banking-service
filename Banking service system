@@ -1,0 +1,10 @@
+print("Welcome  to OURS Bank")
+print( " 1.LOGIN\n","2.New User Registration")
+choice=int(input("enter your choice"))
+if choice==1:
+    print("LOGIN")
+else:
+    print("New User Registration")
+username=input("Username:")
+password=input("Password:")
+initial_balance=0
