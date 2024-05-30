@@ -8,3 +8,12 @@ else:
 username=input("Username:")
 password=input("Password:")
 initial_balance=0
+def deposit(amount):
+
+    if amount>0:
+        print("Your Account is credited with amount of Rs",amount)
+        print("Now Your available balance is Rs",amount+initial_balance)
+    else:
+        print("Minimum amount for depositing is 1000")
+amount_deposit= int(input("Enter Amount for Deposit:"))
+deposit(amount_deposit)
