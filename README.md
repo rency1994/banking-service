@@ -20,4 +20,10 @@ The user is given two options
 Login
 
 New User Registration
+## User Registration:
+If the user selects New User Registration, they are prompted to enter a username and password.
+
+## Initial Balance:  
+The initial balance for a new account is set to 0.
+
 
