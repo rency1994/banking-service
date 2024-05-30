@@ -11,3 +11,13 @@ This program simulates a simple banking system where users can register, deposit
 3.Withdraw money
 
 4.Display updated account balance after each transaction
+## Welcome Message: 
+ The program starts by welcoming the user to OURS Bank.
+
+## User Choice: 
+The user is given two options
+
+Login
+
+New User Registration
+
