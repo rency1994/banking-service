@@ -30,6 +30,10 @@ The user is prompted to enter an amount to deposit, which is then added to their
 
 ## Withdraw Function: 
 The user is prompted to enter an amount to withdraw, which is then subtracted from their balance if they have sufficient funds.
+## Display Balance:
+The program displays the updated account balance after each transaction.
+## Thank You Message:
+The program ends with a thank you message
 
 
 
