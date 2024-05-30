@@ -25,5 +25,11 @@ If the user selects New User Registration, they are prompted to enter a username
 
 ## Initial Balance:  
 The initial balance for a new account is set to 0.
+## Deposit Function: 
+The user is prompted to enter an amount to deposit, which is then added to their balance if it meets the minimum requirement.
+
+## Withdraw Function: 
+The user is prompted to enter an amount to withdraw, which is then subtracted from their balance if they have sufficient funds.
+
 
 
