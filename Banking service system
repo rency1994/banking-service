@@ -17,3 +17,13 @@ def deposit(amount):
         print("Minimum amount for depositing is 1000")
 amount_deposit= int(input("Enter Amount for Deposit:"))
 deposit(amount_deposit)
+
+def withdraw(amount):
+    if amount>0:
+        print("Your Account is debited with Rs",amount)
+        print("Now your Available balance in your account is",amount_deposit-amount_withdraw)
+    else:
+        print("Your Account having Insufficient Balance,Please Maintain your Balancr")
+amount_withdraw=int(input("Enter Withdrawl Amount:"))
+withdraw(amount_withdraw)
+print("THANK YOU FOR VISITING OUR BRANCH")
